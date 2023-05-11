@@ -6,7 +6,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Security Information Event Management (SIEM)</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Microsoft Azure Honeypot SIEM](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
   <h2>Certifications</h2>
   
