@@ -1,36 +1,26 @@
 <h1>Hey, I'm Chris! <br/><a href="https://github.com/Crypss22"><a href="https://www.linkedin.com/in/chrisfeurtado/">Undergraduate Cybersecurity Student</a></h1>
-
+  <h4>ABOUT ME</h4>
+  
+  <p>Hello! My name is Christopher Feurtado, and I'm an active-duty service member and undergraduate student pursuing a Bachelor's degree in Cybersecurity with a concentration in Privacy & Surveillance at American Military University. In my downtime, I use various online resources to enhance my knowledge and technical skills. Due to being in a non-technical field in the military, I'm a dedicated self-learner that takes a proactive approach to seeking knowledge and online resources to expand my knowledge. When I have the time to I also attend study groups with like-minded individuals pursuing the same goals.</p>
+  
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
+- <b>Security Information Event Management (SIEM)</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
   <h2>Certifications</h2>
-  - test
-
+  
+  - [Cybersecurity Roles, Processes & Operating System Security](https://www.coursera.org/account/accomplishments/certificate/XNKZEV686G46)
+  - [Introduction to Cybersecurity Tools & Cyber Attacks](https://www.coursera.org/account/accomplishments/certificate/RY7X8MUNCEXA)
+  - [VetSec 200: Computing Fundamentals](https://veteransec.org/certificates/vetsec-200-certificate/?course_id=14174&cert-nonce=826bfbd38f)
+  - 🔭 I’m currently working on studying for my CompTia Security+ exam.
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: [https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/chrisfeurtado/)
+[twitter]: https://twitter.com/Crypss2
+[linkedin]: https://www.linkedin.com/in/chrisfeurtado/
 
 <!--
 - 🔭 I’m currently working on ...
@@ -39,6 +29,4 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
