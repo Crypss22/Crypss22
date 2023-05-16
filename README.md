@@ -14,7 +14,7 @@
   - [Introduction to Cybersecurity Tools & Cyber Attacks](https://www.coursera.org/account/accomplishments/certificate/RY7X8MUNCEXA)
   - [VetSec 200: Computing Fundamentals](https://github.com/Crypss22/Crypss22/blob/main/VetSec%20200%20Computing%20Fundamentals.pdf)
   - [ISC²: Certified in Cybersecurity](https://github.com/Crypss22/Crypss22/blob/main/ISC%C2%B2%20Cybersecurity%20Course%20Completion.pdf)
-  - 🔭 I’m currently working on studying for my CompTia Security+ exam.
+  - 🔭 I’m currently working on VetSec 200: Networking Fundamentals.
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
