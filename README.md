@@ -12,7 +12,7 @@
   
   - [Cybersecurity Roles, Processes & Operating System Security](https://www.coursera.org/account/accomplishments/certificate/XNKZEV686G46)
   - [Introduction to Cybersecurity Tools & Cyber Attacks](https://www.coursera.org/account/accomplishments/certificate/RY7X8MUNCEXA)
-  - [VetSec 200: Computing Fundamentals](https://veteransec.org/certificates/vetsec-200-certificate/?course_id=14174&cert-nonce=826bfbd38f)
+  - [VetSec 200: Computing Fundamentals](https://github.com/Crypss22/Crypss22/blob/main/VetSec%20200%20Computing%20Fundamentals.pdf)
   - [ISC²: Certified in Cybersecurity](https://github.com/Crypss22/Crypss22/blob/main/ISC%C2%B2%20Cybersecurity%20Course%20Completion.pdf)
   - 🔭 I’m currently working on studying for my CompTia Security+ exam.
 <h2> 🤳 Connect with me:</h2>
