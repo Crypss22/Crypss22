@@ -11,7 +11,7 @@
   <h2>Certifications</h2>
   
   - [Cybersecurity Roles, Processes & Operating System Security](https://www.coursera.org/account/accomplishments/certificate/XNKZEV686G46)
-  - [Introduction to Cybersecurity Tools & Cyber Attacks](https://www.coursera.org/account/accomplishments/certificate/RY7X8MUNCEXA)
+  - [Intro to Cybersecurity Tools & Cyber Attacks](https://www.coursera.org/account/accomplishments/certificate/RY7X8MUNCEXA)
   - [VetSec 200: Computing Fundamentals](https://github.com/Crypss22/Crypss22/blob/main/VetSec%20200%20Computing%20Fundamentals.pdf)
   - [ISC²: Certified in Cybersecurity](https://github.com/Crypss22/Crypss22/blob/main/ISC%C2%B2%20Cybersecurity%20Course%20Completion.pdf)
   - 🔭 I’m currently working on VetSec 200: Networking Fundamentals.
