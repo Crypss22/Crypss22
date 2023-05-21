@@ -1,7 +1,4 @@
 <h1>Hey, I'm Chris! <br/><a href="https://github.com/Crypss22"><a href="https://www.linkedin.com/in/chrisfeurtado/">Undergraduate Cybersecurity Student</a></h1>
-  <h4>ABOUT ME</h4>
-  
-  <p>Hello! My name is Christopher Feurtado, and I'm an active-duty service member and undergraduate student pursuing a Bachelor's degree in Cybersecurity with a concentration in Privacy & Surveillance at American Military University. In my downtime, I use various online resources to enhance my knowledge and technical skills. Due to being in a non-technical field in the military, I'm a dedicated self-learner that takes a proactive approach to seeking knowledge and online resources to expand my knowledge. When I have the time to I also attend study groups with like-minded individuals pursuing the same goals.</p>
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
