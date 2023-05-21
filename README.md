@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Security Information Event Management (SIEM)</b>
-  - [Microsoft Azure Honeypot SIEM](https://github.com/Crypss22/AzureSIEM)
+  - [SIEM in Microsoft Azure](https://github.com/Crypss22/AzureSIEM)
 
   <h2>Certifications</h2>
   
