@@ -1,11 +1,12 @@
 <h1>Hey, I'm Chris! <br/><a href="https://github.com/Crypss22"><a href="https://www.linkedin.com/in/chrisfeurtado/">Undergraduate Cybersecurity Student🧑🏽‍🎓</a></h1>
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-
+<b>Completed✅</b>
+  
 - <b>Security Information Event Management (SIEM)</b>
   - [SIEM in Microsoft Azure](https://github.com/Crypss22/AzureSIEM)
 
-  <h2>Certifications</h2>
+ <h2>Certifications</h2>
   <b>Completed✅</b>
  
   - [VetSec 200: Computing Fundamentals](https://github.com/Crypss22/Crypss22/blob/main/VetSec%20200%20Computing%20Fundamentals.pdf)
@@ -13,7 +14,7 @@
   
   <b>In Progress...⚒️</b>
   
-  - VetSec 200: Networking Fundamentals.
+  - VetSec 200: Networking Fundamentals
 <h2> 🤳 Connect with me:</h2>
   
 
