@@ -1,4 +1,4 @@
-<h1>Hey, I'm Chris! <br/><a href="https://github.com/Crypss22"><a href="https://www.linkedin.com/in/chrisfeurtado/">Undergraduate Cybersecurity Student🧑🏽‍🎓</a></h1>
+<h1>Hey, I'm Chris! <br/><a href="https://www.amu.apus.edu/academic/schools/science-technology-engineering-and-math/bachelors/cybersecurity.html">Undergraduate Cybersecurity Student🧑🏽‍🎓</a></h1>
   
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 <b>Completed ✅</b>
