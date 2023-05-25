@@ -1,10 +1,12 @@
 <h1>Hey, I'm Chris! <br/><a href="https://www.amu.apus.edu/academic/schools/science-technology-engineering-and-math/bachelors/cybersecurity.html">Undergraduate Cybersecurity Student🧑🏽‍🎓</a></h1>
+  <h4>ABOUT ME</h4>
   
+  <p>My name is Christopher Feurtado and I'm an active-duty service member and undergraduate student pursuing a Bachelor's in Cybersecurity at American Military University. In my downtime from work and school, I use various online resources to enhance my knowledge and technical skills. These courses and projects below that I've completed and am currently working are exciting and I wanted to use this repository as a blog to document it all. Due to being in a non-technical field in the military, I have to be a dedicated self-learner and take a proactive approach in teaching myself material outside of school. When I have the time to I also attend study groups with like-minded individuals pursuing the same goals.</p>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 <b>Completed ✅</b>
   
 - <b>Security Information Event Management (SIEM)</b>
-  - [SIEM in Microsoft Azure](https://github.com/Crypss22/AzureSIEM)
+  - [Brute Force Attacks on Honeypot VM](https://github.com/Crypss22/AzureSIEM)
 
  <h2>Certifications</h2>
   <b>Completed ✅</b>
