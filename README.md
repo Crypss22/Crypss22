@@ -6,7 +6,7 @@
 <b>Completed ✅</b>
   
 - <b>Security Information Event Management (SIEM)</b>
-  - [Brute Force Attacks on Honeypot VM](https://github.com/Crypss22/AzureSIEM)
+  - [Azure Honeypot: Detecting and Analyzing Brute-Force Attacks](https://github.com/Crypss22/AzureSIEM)
 
  <h2>Certifications</h2>
   <b>Completed ✅</b>
