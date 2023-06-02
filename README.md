@@ -21,6 +21,7 @@
   
   <b>Future Certifications 🧠</b>
   
+  - CompTIA Security+
   - VetSec 200: Security Fundamentals
 <h2>Connect with me 🤳</h2>
   
