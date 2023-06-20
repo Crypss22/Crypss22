@@ -22,10 +22,9 @@
   <b>Future Certifications 🧠</b>
   
   - CompTIA Security+
-  - VetSec 200: Security Fundamentals
+  - BTL1
 
 <h2>Other</h2>
-<img src="https://tryhackme-badges.s3.amazonaws.com/chrisfeurtado22.png" alt="TryHackMe">
 
 <h2>Connect with me 🤳</h2>
 
