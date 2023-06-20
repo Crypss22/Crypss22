@@ -23,8 +23,11 @@
   
   - CompTIA Security+
   - VetSec 200: Security Fundamentals
+
+<h2>Other</h2>
+<img src="https://tryhackme-badges.s3.amazonaws.com/chrisfeurtado22.png" alt="TryHackMe">
+
 <h2>Connect with me 🤳</h2>
-  
 
 [<img align="left" alt="ChrisF | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ChrisF | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
