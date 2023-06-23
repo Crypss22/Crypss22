@@ -11,7 +11,7 @@
  <h2>Certifications</h2>
   <b>Completed ✅</b>
  
-  - [VetSec 200: Computing Fundamentals](https://github.com/Crypss22/Crypss22/blob/main/VetSec%20200%20Com puting%20Fundamentals.pdf)
+  - [VetSec 200: Computing Fundamentals](https://github.com/Crypss22/Crypss22/blob/main/VetSec%20200%20Computing%20Fundamentals.pdf)
   - [ISC²: Certified in Cybersecurity](https://github.com/Crypss22/Crypss22/blob/main/ISC%C2%B2%20Cybersecurity%20Course%20Completion.pdf)
   
   <b>In Progress ⚒️</b>
