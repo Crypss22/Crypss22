@@ -22,7 +22,7 @@
   <b>Future Certifications 🧠</b>
   
   - CompTIA Security+
-  - BTL1
+
 
 <h2>Other</h2>
 
