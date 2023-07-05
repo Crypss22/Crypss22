@@ -17,13 +17,7 @@
   <b>In Progress ⚒️</b>
 
   - Splunk Core Certified User
-  
-  
-  <b>Future Certifications 🧠</b>
-  
 
-
-<h2>Other</h2>
 
 <h2>Connect with me 🤳</h2>
 
