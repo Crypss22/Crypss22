@@ -15,8 +15,8 @@
   - [VetSec 200: Computing Fundamentals](https://github.com/Crypss22/Crypss22/blob/main/VetSec%20200%20Computing%20Fundamentals.pdf)
   
   <b>In Progress ⚒️</b>
-  
 
+  - Splunk Core Certified User
   
   
   <b>Future Certifications 🧠</b>
