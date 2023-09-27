@@ -7,9 +7,9 @@
   <p>I'm an active-duty service member transitioning out of the military, and an undergraduate student pursuing a B.S. in Cybersecurity & Information Insurance. These certifications and projects below that I've completed, and currently working on, are exciting and I wanted to use this as a blog to document it all.</p>
 <h2>👨‍💻 Projects:</h2>
 <b>Completed ✅</b>
-  
-- <b>Security Information Event Management (SIEM)</b>
+
   - [Azure Honeypot: Detecting and Analyzing Brute-Force Attacks](https://github.com/Crypss22/AzureSIEM)
+  - [Securing The Network with Snort & Splunk](https://github.com/Crypss22/ThreatDefense)
 
  <h2>Certifications</h2>
   <b>Completed ✅</b>
