@@ -1,6 +1,8 @@
 <div id="header" align="center">
 
-<h1>Hey👋🏽 I'm Chris. <br/><a href="https://www.wgu.edu/">Cybersecurity Student</a></h1>
+<h1>Hey👋🏽 I'm Chris. 
+  <br/>
+  <a href="https://www.wgu.edu/">Cybersecurity Student</a></h1>
 </div>
   <h4>ABOUT ME</h4>
   
