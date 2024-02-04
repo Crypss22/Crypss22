@@ -9,7 +9,15 @@
   <p>I'm an active-duty Marine transitioning out of the military, and an undergraduate student pursuing a B.S. in Cybersecurity & Information Insurance.
     <br/>
     <br/>
-    These certifications and projects below that I've completed, and currently working on, are exciting and I wanted to use this as a blog to document it all.</p>
+This page offers a glimpse into my personal projects, earned certifications, and ongoing coursework. Through continuous studying and practical application, I have developed skills in networking, incident response, and best security practices. </p>
+  <div>
+  <img src="https://imgur.com/fSwH8CQ.png" height="10%" width="10%" alt="A+">
+  <img src="https://imgur.com/xBuhOIm.png" height="15%" width="15%" alt="Security+">
+  <img src="https://imgur.com/bMKq2zg.png" height="15%" width="15%" alt="Splunk">
+    </br>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/MangoPipeline.png" alt="TryHackMe">
+  
+  </div>
 <h2>👨‍💻 Projects:</h2>
 <b>Completed ✅</b>
 
@@ -18,19 +26,23 @@
 
  <h2>Certifications</h2>
   <b>Completed ✅</b>
+
+  - [CompTIA A+](https://github.com/Crypss22/Crypss22/blob/main/CompTIA%20A%2B%20ce%20certificate.pdf)
   
   - [CompTIA Security+](https://github.com/Crypss22/Crypss22/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
  
   - [Splunk Core Certified User](https://github.com/Crypss22/Crypss22/blob/main/SplunkCoreCertifiedUser.pdf)
     
   - [VetSec 200: Computing Fundamentals](https://github.com/Crypss22/Crypss22/blob/main/VetSec%20200%20Computing%20Fundamentals.pdf)
-    
-  
-  <div>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/chrisfeurtado22.png" alt="TryHackMe">
-  <img src="https://imgur.com/xBuhOIm.png" height="25%" width="25%" alt="Security+">
-  <img src="https://imgur.com/bMKq2zg.png" height="25%" width="25%" alt="Splunk">
-  </div>
+
+  <h2>Other</h2>
+  <b>Working On 🧑‍💻</b>
+  </br>
+  - HackTheBox - SOC Analyst Path
+  </br>
+  - Cisco Networking Academy - Jr. Soc Analyst Path
+  </br>
+   - TryHackME <b>(Top 4%)</b> - Soc Analyst I Path
 
 <h2>Socials 🤳</h2>
 
