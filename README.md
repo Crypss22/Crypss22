@@ -15,7 +15,7 @@ This page offers a glimpse into my personal projects, earned certifications, and
   <img src="https://imgur.com/xBuhOIm.png" height="15%" width="15%" alt="Security+">
   <img src="https://imgur.com/bMKq2zg.png" height="15%" width="15%" alt="Splunk">
     </br>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/MangoPipeline.png" alt="TryHackMe">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Crypss.png" alt="TryHackMe">
   
   </div>
 <h2>👨‍💻 Projects:</h2>
