@@ -9,7 +9,7 @@
   <p>I'm an active-duty Marine transitioning out of the military, and an undergraduate student pursuing a B.S. in Cybersecurity & Information Insurance.
     <br/>
     <br/>
-This page offers a glimpse into my personal projects, earned certifications, and ongoing coursework. Through continuous studying and practical application, I have developed skills in networking, incident response, and best security practices. </p>
+This page offers a glimpse into my personal projects, earned certifications, and ongoing coursework. Through continuous studying and practical application, I have developed skills in hardware, networking, incident response, and other best security best practices. </p>
   <div>
   <img src="https://imgur.com/fSwH8CQ.png" height="10%" width="10%" alt="A+">
   <img src="https://imgur.com/xBuhOIm.png" height="15%" width="15%" alt="Security+">
