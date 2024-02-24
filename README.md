@@ -21,7 +21,7 @@ This page offers a glimpse into my personal projects, earned certifications, and
 <h2>👨‍💻 Projects:</h2>
 <b>Completed ✅</b>
 
-  - [Azure Honeypot: Detecting and Analyzing Brute-Force Attacks](https://github.com/Crypss22/AzureSIEM)
+  - [Azure Honeypot](https://github.com/Crypss22/AzureSIEM)
   - [Securing The Network](https://github.com/Crypss22/ThreatDefense)
 
  <h2>Certifications</h2>
