@@ -35,15 +35,6 @@ This page offers a glimpse into my personal projects, earned certifications, and
     
   - [VetSec 200: Computing Fundamentals](https://github.com/Crypss22/Crypss22/blob/main/VetSec%20200%20Computing%20Fundamentals.pdf)
 
-  <h2>Other</h2>
-  <b>Working On 🧑‍💻</b>
-  </br>
-  - HackTheBox - SOC Analyst Path
-  </br>
-  - Cisco Networking Academy - Jr. Soc Analyst Path
-  </br>
-   - TryHackME <b>(Top 4%)</b> - Soc Analyst I Path
-
 <h2>Socials 🤳</h2>
 
 [<img align="left" alt="ChrisF | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
