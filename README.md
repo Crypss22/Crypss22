@@ -23,6 +23,7 @@ This page offers a glimpse into my personal projects, earned certifications, and
 
   - [Azure Honeypot](https://github.com/Crypss22/AzureSIEM)
   - [Securing The Network](https://github.com/Crypss22/ThreatDefense)
+  - [IPChecker](https://github.com/Crypss22/IPChecker)
 
  <h2>Certifications</h2>
   <b>Completed ✅</b>
