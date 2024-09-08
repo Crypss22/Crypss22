@@ -2,14 +2,12 @@
 
 <h1>Hey👋🏽 I'm Chris. 
   <br/>
-  <a href="https://www.wgu.edu/">Cybersecurity Student</a></h1>
+  <h3>IT Support, Cybersecurity Student</h3>
 </div>
   <h4>ABOUT ME</h4>
   
-  <p>I'm an active-duty Marine transitioning out of the military, and an undergraduate student pursuing a B.S. in Cybersecurity & Information Insurance.
-    <br/>
-    <br/>
-This page offers a glimpse into my personal projects, earned certifications, and ongoing coursework. Through my studies and practical application, I have developed skills in hardware, networking, incident response, and other best security best practices. </p>
+  <p> 
+This page offers a glimpse into personal projects and ongoing coursework. </p>
   <div>
   <img src="https://imgur.com/fSwH8CQ.png" height="10%" width="10%" alt="A+">
   <img src="https://imgur.com/xBuhOIm.png" height="15%" width="15%" alt="Security+">
