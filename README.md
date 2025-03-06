@@ -31,6 +31,10 @@ This page offers a glimpse into personal projects and ongoing coursework. </p>
   - [CompTIA Network+](https://github.com/Crypss22/Crypss22/blob/main/CompTIA%20Network%2B%20ce%20certificate.pdf)
  
   - [Splunk Core Certified User](https://github.com/Crypss22/Crypss22/blob/main/SplunkCoreCertifiedUser.pdf)
+
+  - Linux Essentials Certification
+  - ITIL Foundation Certificate in IT Service Management
+  - ThreatLocker Cyber Hero
     
 <h2>Socials 🤳</h2>
 
