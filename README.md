@@ -2,18 +2,13 @@
 
 <h1>Hey👋🏽 I'm Chris. 
   <br/>
-  <h3>IT Support, Cybersecurity Student</h3>
+  <h3>Account Engineer, Cybersecurity Student</h3>
 </div>
   <h4>ABOUT ME</h4>
   
   <p> 
 This page offers a glimpse into personal projects and ongoing coursework. </p>
-  <div>
-  <img src="https://imgur.com/Bx9z8mL.png" height="15%" width="15%" alt="Comptia">
-  </br>
-  <img src="https://imgur.com/bMKq2zg.png" height="15%" width="15%" alt="Splunk">
 
-  </div>
 <h2>👨‍💻 Projects:</h2>
 <b>Completed ✅</b>
 
