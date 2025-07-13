@@ -2,22 +2,20 @@
 
 <h1>Hey👋🏽 I'm Chris. 
   <br/>
-  <h3>Account Engineer, Cybersecurity Student</h3>
+  <h3>Cybersecurity Student</h3>
 </div>
   <h4>ABOUT ME</h4>
   
   <p> 
-This page offers a glimpse into personal projects and ongoing coursework. </p>
+A glimpse into my personal projects. </p>
 
 <h2>👨‍💻 Projects:</h2>
-<b>Completed ✅</b>
 
   - [Azure Honeypot](https://github.com/Crypss22/AzureSIEM)
   - [Securing The Network](https://github.com/Crypss22/ThreatDefense)
   - [IPChecker](https://github.com/Crypss22/IPChecker)
 
  <h2>Certifications</h2>
-  <b>Completed ✅</b>
 
   - [CompTIA A+](https://github.com/Crypss22/Crypss22/blob/main/CompTIA%20A%2B%20ce%20certificate.pdf)
   
