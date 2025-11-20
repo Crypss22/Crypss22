@@ -1,8 +1,8 @@
 <div id="header" align="center">
 
-<h1>Hey👋🏽 I'm Chris. 
+<h1>Hi👋🏽 I'm Chris. 
   <br/>
-  <h3>Cybersecurity Student</h3>
+  <h3>Systems Administrator, Cybersecurity Student</h3>
 </div>
   <h4>ABOUT ME</h4>
   
