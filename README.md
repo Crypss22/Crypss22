@@ -2,7 +2,7 @@
 
 <h1>Hi👋🏽 I'm Chris. 
   <br/>
-  <h3>Systems Administrator, Cybersecurity Student</h3>
+  <h3>Cybersecurity Engineer, Student</h3>
 </div>
   <h4>ABOUT ME</h4>
   
@@ -17,6 +17,8 @@ A glimpse into my personal projects. </p>
 
  <h2>Certifications</h2>
 
+  - ISC2 Systems Security Certified Practitioner (SSCP)
+  - ThreatLocker Cyber Hero
   - [CompTIA A+](https://github.com/Crypss22/Crypss22/blob/main/CompTIA%20A%2B%20ce%20certificate.pdf)
   
   - [CompTIA Security+](https://github.com/Crypss22/Crypss22/blob/main/CompTIA%20Security%2B%20ce%20certificate.pdf)
